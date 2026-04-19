@@ -114,7 +114,7 @@ workspace/
 
 说明：`workspace/.dayu/` 由系统自动维护，当前会承载财报仓储的 batch 暂存与 crash recovery 备份；不需要手动创建或清理。
 
-### 1.4 跑通第一条命令
+### 1.4 跑通第一条命令开始吧
 
 推荐先跑一条单次 prompt：
 
